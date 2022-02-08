@@ -6,3 +6,4 @@ for i in range(10):
  print(i)
  l.append(i)
 print(l)
+print("hi")
