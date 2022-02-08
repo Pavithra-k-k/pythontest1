@@ -1,4 +1,6 @@
 write a simple python code
 
-for(i=0;i<10;i++)
+simple python code
+
+for i in range(10):
  print(i)
